@@ -1,0 +1,15 @@
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\bin\Debug\net9.0\Example007_Magic.exe
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\bin\Debug\net9.0\Example007_Magic.deps.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\bin\Debug\net9.0\Example007_Magic.runtimeconfig.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\bin\Debug\net9.0\Example007_Magic.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\bin\Debug\net9.0\Example007_Magic.pdb
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\obj\Debug\net9.0\Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\obj\Debug\net9.0\Example007_Magic.AssemblyInfoInputs.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\obj\Debug\net9.0\Example007_Magic.AssemblyInfo.cs
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\obj\Debug\net9.0\Example007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\obj\Debug\net9.0\Example007_Magic.sourcelink.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\obj\Debug\net9.0\Example007_Magic.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\obj\Debug\net9.0\refint\Example007_Magic.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\obj\Debug\net9.0\Example007_Magic.pdb
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\obj\Debug\net9.0\Example007_Magic.genruntimeconfig.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example007_Magic\obj\Debug\net9.0\ref\Example007_Magic.dll

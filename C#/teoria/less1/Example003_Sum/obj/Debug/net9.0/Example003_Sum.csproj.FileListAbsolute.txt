@@ -1,0 +1,15 @@
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\bin\Debug\net9.0\Example003_Sum.exe
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\bin\Debug\net9.0\Example003_Sum.deps.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\bin\Debug\net9.0\Example003_Sum.runtimeconfig.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\bin\Debug\net9.0\Example003_Sum.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\bin\Debug\net9.0\Example003_Sum.pdb
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\obj\Debug\net9.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\obj\Debug\net9.0\Example003_Sum.AssemblyInfoInputs.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\obj\Debug\net9.0\Example003_Sum.AssemblyInfo.cs
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\obj\Debug\net9.0\Example003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\obj\Debug\net9.0\Example003_Sum.sourcelink.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\obj\Debug\net9.0\Example003_Sum.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\obj\Debug\net9.0\refint\Example003_Sum.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\obj\Debug\net9.0\Example003_Sum.pdb
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\obj\Debug\net9.0\Example003_Sum.genruntimeconfig.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\teoría\less1\Example003_Sum\obj\Debug\net9.0\ref\Example003_Sum.dll
