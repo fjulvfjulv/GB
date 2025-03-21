@@ -1,0 +1,15 @@
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\obj\Debug\net9.0\Tarea7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\obj\Debug\net9.0\Tarea7.AssemblyInfoInputs.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\obj\Debug\net9.0\Tarea7.AssemblyInfo.cs
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\obj\Debug\net9.0\Tarea7.csproj.CoreCompileInputs.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\obj\Debug\net9.0\Tarea7.sourcelink.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\bin\Debug\net9.0\Tarea7.exe
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\bin\Debug\net9.0\Tarea7.deps.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\bin\Debug\net9.0\Tarea7.runtimeconfig.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\bin\Debug\net9.0\Tarea7.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\bin\Debug\net9.0\Tarea7.pdb
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\obj\Debug\net9.0\Tarea7.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\obj\Debug\net9.0\refint\Tarea7.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\obj\Debug\net9.0\Tarea7.pdb
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\obj\Debug\net9.0\Tarea7.genruntimeconfig.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\practica\Less2\Tarea7\obj\Debug\net9.0\ref\Tarea7.dll
