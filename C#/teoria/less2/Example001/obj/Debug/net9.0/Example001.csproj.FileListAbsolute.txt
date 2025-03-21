@@ -1,0 +1,15 @@
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\obj\Debug\net9.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\obj\Debug\net9.0\Example001.AssemblyInfoInputs.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\obj\Debug\net9.0\Example001.AssemblyInfo.cs
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\obj\Debug\net9.0\Example001.csproj.CoreCompileInputs.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\obj\Debug\net9.0\Example001.sourcelink.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\bin\Debug\net9.0\Example001.exe
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\bin\Debug\net9.0\Example001.deps.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\bin\Debug\net9.0\Example001.runtimeconfig.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\bin\Debug\net9.0\Example001.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\bin\Debug\net9.0\Example001.pdb
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\obj\Debug\net9.0\Example001.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\obj\Debug\net9.0\refint\Example001.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\obj\Debug\net9.0\Example001.pdb
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\obj\Debug\net9.0\Example001.genruntimeconfig.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GeekBrains\C#\teoria\less2\Example001\obj\Debug\net9.0\ref\Example001.dll
