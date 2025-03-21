@@ -1,0 +1,14 @@
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\bin\Debug\net9.0\Tarea8.exe
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\bin\Debug\net9.0\Tarea8.deps.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\bin\Debug\net9.0\Tarea8.runtimeconfig.json
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\bin\Debug\net9.0\Tarea8.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\bin\Debug\net9.0\Tarea8.pdb
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\obj\Debug\net9.0\Tarea8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\obj\Debug\net9.0\Tarea8.AssemblyInfoInputs.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\obj\Debug\net9.0\Tarea8.AssemblyInfo.cs
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\obj\Debug\net9.0\Tarea8.csproj.CoreCompileInputs.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\obj\Debug\net9.0\Tarea8.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\obj\Debug\net9.0\refint\Tarea8.dll
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\obj\Debug\net9.0\Tarea8.pdb
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\obj\Debug\net9.0\Tarea8.genruntimeconfig.cache
+C:\Users\fjulv\OneDrive\Рабочий стол\GB\C#\practica\Less1\Tarea8\obj\Debug\net9.0\ref\Tarea8.dll
