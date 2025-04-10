@@ -21,7 +21,7 @@ int SearchSecondMax(int[] arr)
         else
         {
             firstMax = arr[i + 1];
-            if (secondMax > arr[i])
+            if (secondMax < arr[i] && arr[i] != arr[i + 1])
             {
                 secondMax = arr[i];
             }
@@ -32,6 +32,6 @@ int SearchSecondMax(int[] arr)
     else return firstMax;
 }
 
-int[] array = {1, 3, 5, 6, 6, 4};
+int[] array = { 1, 3, 5, 6, 6, 4, 4, 4, 6, 6, 6 };
 int num = SearchSecondMax(array);
 System.Console.WriteLine(num);
